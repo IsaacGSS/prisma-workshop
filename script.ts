@@ -4,7 +4,10 @@ const prisma = new PrismaClient()
 
 // A `main` function so that you can use async/await
 async function main() {
-  // ... you will write your Prisma Client queries here
+  const resultado = await prisma.user.create({
+    data: { email: 'matheus@TextTrackList.com' }
+  })
+  console.log(resultado)
 }
 
 main()
