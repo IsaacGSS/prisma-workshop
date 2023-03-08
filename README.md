@@ -21,7 +21,7 @@
 
 ## 💻 Studying
 
-  Estou me aprojundando em bancos de dados e estou aqui passando um aprendizado com o ***Prisma***, aqui fica guardado o meus primeiros passos com a tecnologia e fica registrado meu uso inicial para qualquer um que se interessa e mais, um convite para aprender o ***Prisma*** também.
+  Estou me aprojundando em bancos de dados e estou aqui adquirindo um aprendizado com o ***Prisma***, aqui fica guardado o meus primeiros passos com a tecnologia e fica registrado meu uso inicial para qualquer um que se interessa e mais, um convite para aprender o ***Prisma*** também.
 </div>
 
 
