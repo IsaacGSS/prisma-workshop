@@ -21,7 +21,8 @@
 
 ## 💻 Studying
 
-  Estou me aprojundando em bancos de dados e estou aqui adquirindo um aprendizado com o ***Prisma***, aqui fica guardado o meus primeiros passos com a tecnologia e fica registrado meu uso inicial para qualquer um que se interessa e mais, um convite para aprender o ***Prisma*** também.
+"Estou me aprofundando em bancos de dados e estou adquirindo conhecimentos sobre o ***Prisma***. Este é o registro dos meus primeiros passos com a tecnologia, e está disponível para qualquer um que se interesse em aprender mais sobre o assunto. Além disso, gostaria de convidá-lo para também aprender sobre o ***Prisma***."
+
 </div>
 
 
