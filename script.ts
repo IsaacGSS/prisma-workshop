@@ -20,13 +20,14 @@ async function main() {
   //   }
   // })
 
-  const resultado4 = await prisma.post.create({
-    data: {
-      title: 'Hello World'
-    }
-  })
+  // ? Criar um post com o titule de "Hello World"
+  // const resultado4 = await prisma.post.create({
+  //   data: {
+  //     title: 'Hello World'
+  //   }
+  // })
 
-  console.log(resultado4)
+  console.log(resultado5)
 }
 
 main()
