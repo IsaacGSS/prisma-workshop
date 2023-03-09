@@ -21,13 +21,27 @@ async function main() {
   // })
 
   // ? Criar um post com o titule de "Hello World"
-  // const resultado4 = await prisma.post.create({
+  // const resultado5 = await prisma.post.create({
   //   data: {
   //     title: 'Hello World'
   //   }
   // })
 
-  console.log(resultado5)
+  // ? Escreva uma consulta para conectar os registros User e Post
+  // const resultado6 = await prisma.post.update({
+  //   data: {
+  //     author: {
+  //       connect: {
+  //         id: 4
+  //       }
+  //     }
+  //   },
+  //   where: {
+  //     id: 1
+  //   }
+  // })
+
+  console.log(resultado7)
 }
 
 main()
